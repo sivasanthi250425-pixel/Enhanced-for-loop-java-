@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String [] arg) {
 		String[] family= {"appa","amma","akka","thata","paati"};
 	
-		for(String f:faly) {
+		for(String f:family) {
 			 System.out.println(f);
 		}
 		
